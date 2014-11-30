@@ -1,0 +1,17 @@
+.row {
+  height: 1px;
+}
+ 
+.row-expanded { height: 100%; }
+
+.foot{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+body{
+    margin: 0 0 100px;
+}
